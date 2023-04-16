@@ -1,12 +1,16 @@
 {
-  "name": "@kevinshao0130/copytoclipboard",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@kevinshao0130/copytoclipboard.js",
+  "version": "1.0.1",
+  "description": "A common javascript function that copies to the clipboard",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "copy",
+    "clipboard",
+    "copy to clipboard"
+  ],
   "author": "kevinshao0130 <kevinfat987@hotmail.com>",
   "license": "ISC",
   "types": "./index.d.ts",
